@@ -17,12 +17,5 @@ As peças movem-se de acordo com regras estritas e próprias de cada tipo, exigi
 
 ## 🔗 Jogue Online / Demonstração
 Pode experimentar uma versão interativa e visual deste conceito de xadrez diretamente no seu navegador através do seguinte link de demonstração:
-👉 [Aceder à Demonstração Online do Jogo de Xadrez](https://lichess.org/) *(substitua este link pelo seu projeto publicado ou versão web)*
+👉 [Acessar à Demonstração Online do Jogo de Xadrez](https://lichess.org/) 
 
-## 🚀 Como Compilar e Executar o Código Localmente
-
-1. Certifique-se de que tem um compilador de C instalado (como o `gcc`).
-2. Clone este repositório ou descarregue o ficheiro de código fonte (`xadrez.c`).
-3. Abra o terminal na pasta do projeto e execute o comando de compilação:
-   ```bash
-   gcc xadrez.c -o xadrez
