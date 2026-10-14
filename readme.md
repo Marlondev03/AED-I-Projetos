@@ -17,7 +17,7 @@ As peças movem-se de acordo com regras estritas e próprias de cada tipo, exigi
 
 ## 🔗 Jogue Online / Demonstração
 Pode experimentar uma versão interativa e visual deste conceito de xadrez diretamente no seu navegador através do seguinte link de demonstração:
-👉 [Aceder à Demonstração Online do Jogo de Xadrez](https://github.com) *(substitua este link pelo seu projeto publicado ou versão web)*
+👉 [Aceder à Demonstração Online do Jogo de Xadrez](https://lichess.org/) *(substitua este link pelo seu projeto publicado ou versão web)*
 
 ## 🚀 Como Compilar e Executar o Código Localmente
 
